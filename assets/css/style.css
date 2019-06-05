@@ -1,0 +1,76 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1{
+	font-family: 'Orbitron', sans-serif;
+}
+
+
+#herobanner1{
+	background: url("../img/herobanner1.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+	width: 100%;
+}
+
+#tempimg1{
+	background: url("../img/temp1.png");
+	background-size: cover;
+	/*background-position: center;*/
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 100%;
+}
+
+#tempimg2{
+	background: url("../img/temp2.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 100%;
+}
+
+#tempimg3{
+	background: url("../img/temp3.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 100%;
+}
+
+.headtemp{
+	font-size: 5rem;
+	color: #fff;
+}
+
+.texttemp{
+	opacity: 0.25;
+}
+
+a.decoranch{
+	text-decoration: none;
+}
+
+#tempimg1:hover .texttemp{
+	opacity: 1;
+}
+
+#tempimg2:hover .texttemp{
+	opacity: 1;
+}
+
+#tempimg3:hover .texttemp{
+	opacity: 1;
+}
