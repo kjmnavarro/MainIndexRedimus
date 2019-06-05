@@ -24,7 +24,7 @@ h1{
 }
 
 #tempimg1{
-	background: url("../img/temp1.png");
+	background: url("../img/tempp1.png");
 	background-size: cover;
 	/*background-position: center;*/
 	background-repeat: no-repeat;
@@ -33,7 +33,7 @@ h1{
 }
 
 #tempimg2{
-	background: url("../img/temp2.png");
+	background: url("../img/tempp2.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -42,7 +42,7 @@ h1{
 }
 
 #tempimg3{
-	background: url("../img/temp3.png");
+	background: url("../img/tempp3.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
